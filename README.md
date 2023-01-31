@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/urssanjaysingh/urssanjaysingh/blob/main/banner.png)](https://github.com/urssanjaysingh)
 I am 3rd Year B.Tech. CSE Student  👨‍🎓  <br />
 Aspiring Software Engineer  👨‍💻  <br />
 Love to Code  ⌨  <br /> 
