@@ -1,4 +1,3 @@
-![alt text](banner.png)
 I am 3rd Year B.Tech. CSE Student  👨‍🎓  <br />
 Aspiring Software Engineer  👨‍💻  <br />
 Love to Code  ⌨  <br /> 
