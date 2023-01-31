@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="400" src="https://github.com/urssanjaysingh">
 I am 3rd Year B.Tech. CSE Student  👨‍🎓  <br />
 Aspiring Software Engineer  👨‍💻  <br />
 Love to Code  ⌨  <br /> 
