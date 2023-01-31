@@ -1,4 +1,4 @@
-![alt text](https://github.com/[urssanjaysingh]/[urssanjaysingh]/blob/[main]/banner.png?raw=true)
+![alt text](banner.png)
 I am 3rd Year B.Tech. CSE Student  👨‍🎓  <br />
 Aspiring Software Engineer  👨‍💻  <br />
 Love to Code  ⌨  <br /> 
