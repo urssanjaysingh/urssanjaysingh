@@ -3,4 +3,3 @@
 </div>
 <h1 align="center">Hi, I'm Sanjay Singh!</h1>
 <h3 align="center">I am 3rd Year B.Tech. CSE Student | Love to Code ❤ | Familiar with Java, Python, C, C++ </h3>
-[(https://github-readme-stats.vercel.app/api?username=urssanjaysingh)](https://github.com/anuraghazra/github-readme-stats)
