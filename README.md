@@ -8,6 +8,8 @@
 
 <p align="center" style="font-size: 18px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/urssanjaysingh)](https://www.linkedin.com/in/urssanjaysingh)
+
 <h3 align="center" style="font-size: 22px; margin-top: 30px;">Languages and Technologies I love:</h3>
 
 <div align="center" style="margin-top: 20px;">
@@ -86,8 +88,7 @@ In addition to the featured repositories, I have many other projects related to 
 
 ## Contact
 
-You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/urssanjaysingh)](https://www.linkedin.com/in/urssanjaysingh)
- to discuss collaborations or any other projects.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/urssanjaysingh) to discuss collaborations or any other projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=urssanjaysingh&color=blueviolet)
 
