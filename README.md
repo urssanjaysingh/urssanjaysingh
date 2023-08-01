@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%; box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);"/>
 </div>
 
-<h1 align="center" style="font-size: 36px; margin-top: 20px;">Hi there, I'm Sanjay Singh! 👋</h1>
+<h1 align="center" style="font-size: 48px; margin-top: 20px; color: #007bff;">Hi there, I'm Sanjay Singh! 👋</h1>
 
-<p align="center" style="font-size: 18px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
+<p align="center" style="font-size: 20px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
 
-<h3 align="center" style="font-size: 22px; margin-top: 30px;">Languages and Technologies I love:</h3>
+<h3 align="center" style="font-size: 28px; margin-top: 30px; color: #007bff;">Languages and Technologies I love:</h3>
 
 <div align="center" style="margin-top: 20px;">
   <span style="display: inline-block; margin: 10px;">
@@ -34,9 +34,6 @@
   </span>
   <span style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  </span>
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
