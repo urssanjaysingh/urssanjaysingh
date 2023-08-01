@@ -4,11 +4,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%; box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);"/>
 </div>
 
-<h1 align="center" style="font-size: 48px; margin-top: 20px; color: #007bff;">Hi there, I'm Sanjay Singh! 👋</h1>
+<h1 align="center" style="font-size: 36px; margin-top: 20px;">Hi there, I'm Sanjay Singh! 👋</h1>
 
-<p align="center" style="font-size: 20px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
+<p align="center" style="font-size: 18px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
 
-<h3 align="center" style="font-size: 28px; margin-top: 30px; color: #007bff;">Languages and Technologies I love:</h3>
+<h3 align="center" style="font-size: 22px; margin-top: 30px;">Languages and Technologies I love:</h3>
 
 <div align="center" style="margin-top: 20px;">
   <span style="display: inline-block; margin: 10px;">
@@ -34,6 +34,9 @@
   </span>
   <span style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  </span>
+  <span style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </span>
   <span style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
@@ -73,8 +76,18 @@ Hello, and welcome to my GitHub profile! I'm a Final Year B.Tech. CSE student, a
 
 In addition to the featured repositories, I have many other projects related to Java Programming, Python Programming, C/C++ projects, and more. Feel free to explore and learn from them.
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urssanjaysingh&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urssanjaysingh&layout=compact&theme=radical)
+
 ## Contact
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/urssanjaysingh) to discuss collaborations or any other projects.
+
+![Profile Views](https://komarev.com/ghpvc/?username=urssanjaysingh&color=blueviolet)
 
 Thank you for visiting my GitHub profile! Happy coding! 😊
