@@ -86,7 +86,8 @@ In addition to the featured repositories, I have many other projects related to 
 
 ## Contact
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/urssanjaysingh) to discuss collaborations or any other projects.
+You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/urssanjaysingh)](https://www.linkedin.com/in/urssanjaysingh)
+ to discuss collaborations or any other projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=urssanjaysingh&color=blueviolet)
 
