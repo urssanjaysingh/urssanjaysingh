@@ -38,6 +38,12 @@
   <span style="display: inline-block; margin: 10px;">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </span>
+  <span style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  </span>
+  <span style="display: inline-block; margin: 10px;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  </span>
 </div>
 
 ## Overview
