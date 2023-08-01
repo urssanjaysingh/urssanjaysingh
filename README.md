@@ -1,3 +1,5 @@
+# Sanjay Singh - GitHub Profile
+
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="border-radius: 50%; box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);"/>
 </div>
@@ -37,3 +39,39 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </span>
 </div>
+
+## Overview
+
+Hello, and welcome to my GitHub profile! I'm a 3rd Year B.Tech. CSE student, and I'm passionate about coding and solving real-world problems using technology.
+
+## Featured Repositories
+
+1. [Web Development Course](https://github.com/urssanjaysingh/Web-Development-Course): A comprehensive course covering HTML, CSS, JavaScript, Node.js, Express.js, React, Git version control, and MySQL database connection with Express.js.
+
+2. [React Redux](https://github.com/urssanjaysingh/React-Redux): Examples and projects using React with Redux for state management.
+
+3. [React Form](https://github.com/urssanjaysingh/React-Form): A React project with registration and login forms, including validation, authentication, and authorization.
+
+4. [React JS](https://github.com/urssanjaysingh/React-JS): Examples and projects using React.js for building user interfaces.
+
+5. [Node JS](https://github.com/urssanjaysingh/Node-JS): Node.js examples and projects for server-side JavaScript development.
+
+6. [JavaScript](https://github.com/urssanjaysingh/JavaScript): A collection of JavaScript examples covering various concepts.
+
+7. [CSS](https://github.com/urssanjaysingh/CSS): Examples and projects for Cascading Style Sheets (CSS) for styling web pages.
+
+8. [HTML](https://github.com/urssanjaysingh/HTML): Examples and projects using HyperText Markup Language (HTML) for web page structure.
+
+9. [Servlets-JSP](https://github.com/urssanjaysingh/Servlets-JSP): Java examples and projects with Servlets and JavaServer Pages (JSP) for web development.
+
+10. [Web-Technology](https://github.com/urssanjaysingh/Web-Technology): Java examples and projects related to web technologies.
+
+## Other Projects
+
+In addition to the featured repositories, I have many other projects related to Java Programming, Python Programming, C/C++ projects, and more. Feel free to explore and learn from them.
+
+## Contact
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/urssanjaysingh) to discuss collaborations or any other projects.
+
+Thank you for visiting my GitHub profile! Happy coding! 😊
