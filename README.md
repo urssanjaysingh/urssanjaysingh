@@ -8,7 +8,9 @@
 
 <p align="center" style="font-size: 18px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/urssanjaysingh)](https://www.linkedin.com/in/urssanjaysingh)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/urssanjaysingh)](https://www.linkedin.com/in/urssanjaysingh)
+</div>
 
 <h3 align="center" style="font-size: 22px; margin-top: 30px;">Languages and Technologies I love:</h3>
 
