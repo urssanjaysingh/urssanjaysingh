@@ -78,11 +78,11 @@ In addition to the featured repositories, I have many other projects related to 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urssanjaysingh&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urssanjaysingh&show_icons=true&count_private=true&hide=prs,issues&theme=light)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urssanjaysingh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urssanjaysingh&layout=compact&theme=light)
 
 ## Contact
 
