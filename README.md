@@ -6,7 +6,7 @@
 
 <h1 align="center" style="font-size: 36px; margin-top: 20px;">Hi there, I'm Sanjay Singh! 👋</h1>
 
-<p align="center" style="font-size: 18px; color: #444;">I am a 3rd Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
+<p align="center" style="font-size: 18px; color: #444;">I am a Final Year B.Tech. CSE Student with a passion for coding and problem-solving.</p>
 
 <h3 align="center" style="font-size: 22px; margin-top: 30px;">Languages and Technologies I love:</h3>
 
@@ -42,7 +42,7 @@
 
 ## Overview
 
-Hello, and welcome to my GitHub profile! I'm a 3rd Year B.Tech. CSE student, and I'm passionate about coding and solving real-world problems using technology.
+Hello, and welcome to my GitHub profile! I'm a Final Year B.Tech. CSE student, and I'm passionate about coding and solving real-world problems using technology.
 
 ## Featured Repositories
 
