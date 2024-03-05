@@ -96,4 +96,4 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/urssanjaysingh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=urssanjaysingh&color=blueviolet)
 
-Thank you for visiting my GitHub profile! Happy coding! 😊
+Thank you, for visiting my GitHub profile! Happy coding! 😊
