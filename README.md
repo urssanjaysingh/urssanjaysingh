@@ -8,7 +8,7 @@
 
 <div align="center">
 
- <span style="color:#C8A3C0">Programming Languages</span>
+### <span style="color:#C8A3C0">Programming Languages</span>
 
 ![C](https://img.shields.io/badge/C-D9BED1?style=for-the-badge&logo=c&logoColor=000000)
 ![C++](https://img.shields.io/badge/C++-D9BED1?style=for-the-badge&logo=c%2B%2B&logoColor=000000)
