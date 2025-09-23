@@ -90,11 +90,7 @@
 
 ### <span style="color:#C8A3C0">GitHub Stats & Activity</span>
     
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urssanjaysingh&background=D9BED1&fire=000000&currStreakNum=000000&sideNums=000000&dates=000000&ring=000000" alt="GitHub Streak"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urssanjaysingh&show_icons=true&locale=en&layout=compact&title_color=000000&text_color=000000&bg_color=D9BED1" alt="Top Languages"/> 
-  <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=urssanjaysingh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=000000&icon_color=000000&text_color=000000&bg_color=D9BED1" alt="my Github Stats"/>  
 </div>
 
 <div align="center">
