@@ -115,7 +115,7 @@
 <a href="https://urssanjaysingh.github.io/" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-D9BED1?logo=firefox&logoColor=000000" alt="Portfolio" height="25"/>
 </a>
-<a href="https://medium.com/@sanjaysingh26112000" target="_blank">
+<a href="https://medium.com/@urssanjaysingh" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/Medium-D9BED1?logo=medium&logoColor=000000" alt="Medium" height="25"/>
 </a>
 <a href="https://dev.to/urssanjaysingh" target="_blank">
